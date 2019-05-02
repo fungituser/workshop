@@ -1,0 +1,3 @@
+This is a diary of the git workshop!
+
+It's going so great so far!
